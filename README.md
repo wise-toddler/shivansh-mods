@@ -8,6 +8,15 @@ A Claude Code plugin marketplace. Each plugin lives in its own repo, linked here
 | [pin-note](https://github.com/wise-toddler/pin-note) | Pins notes above the input that stay put while the chat scrolls; the agent keeps them, with numbered points you answer a few at a time |
 | [zsh-guard](https://github.com/wise-toddler/zsh-guard) | Blocks Bash tool commands that rely on bash word splitting, which zsh does not do |
 
+## Other tools
+
+Also linked as submodules. They aren't Claude Code plugins, so each one installs the way its own README says.
+
+| Tool | What it does |
+|---|---|
+| [mcp-cli-skill](https://github.com/wise-toddler/mcp-cli-skill) | `mcp-call`: call any MCP server's tools from the shell, plus a skill that teaches Claude to use it |
+| [browser-manage](https://github.com/wise-toddler/browser-manage) | Chrome/Edge extension and MCP server to manage tabs and drive pages from Claude |
+
 ## Install
 
 ```

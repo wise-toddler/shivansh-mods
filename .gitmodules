@@ -7,3 +7,9 @@
 [submodule "zsh-guard"]
 	path = zsh-guard
 	url = https://github.com/wise-toddler/zsh-guard.git
+[submodule "mcp-cli-skill"]
+	path = mcp-cli-skill
+	url = https://github.com/wise-toddler/mcp-cli-skill.git
+[submodule "browser-manage"]
+	path = browser-manage
+	url = https://github.com/wise-toddler/browser-manage.git
