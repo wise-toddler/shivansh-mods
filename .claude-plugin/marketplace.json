@@ -6,17 +6,17 @@
   "plugins": [
     {
       "name": "anti-hung",
-      "source": "./anti-hung",
+      "source": "./plugins/anti-hung",
       "description": "Keeps chats from hanging: \"continue\" when the network is back, and compact then continue on prompt-too-long or context-limit stops"
     },
     {
       "name": "pin-note",
-      "source": "./pin-note",
+      "source": "./plugins/pin-note",
       "description": "Pinned notes above the input: the agent keeps sticky notes with numbered points you can answer a few at a time, and they stay put while the chat scrolls"
     },
     {
       "name": "zsh-guard",
-      "source": "./zsh-guard",
+      "source": "./plugins/zsh-guard",
       "description": "Blocks Bash tool commands that rely on bash word splitting, which zsh does not do"
     }
   ],

@@ -1,6 +1,6 @@
 # shivansh-mods
 
-A Claude Code plugin marketplace. Each plugin lives in its own repo, linked here as a git submodule.
+A Claude Code plugin marketplace. Each plugin lives in its own repo, linked here as a git submodule: plugins in `plugins/`, other tools in `tools/`.
 
 | Plugin | What it does |
 |---|---|
@@ -32,4 +32,4 @@ Also linked as submodules. They aren't Claude Code plugins, so each one installs
 git clone --recurse-submodules https://github.com/wise-toddler/shivansh-mods
 ```
 
-Change a plugin inside its folder, commit and push there, then commit the new submodule commit here.
+Change a plugin inside `plugins/<name>`, commit and push there, then commit the new submodule commit here.
