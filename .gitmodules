@@ -1,0 +1,9 @@
+[submodule "anti-hung"]
+	path = anti-hung
+	url = https://github.com/wise-toddler/anti-hung.git
+[submodule "pin-note"]
+	path = pin-note
+	url = https://github.com/wise-toddler/pin-note.git
+[submodule "zsh-guard"]
+	path = zsh-guard
+	url = https://github.com/wise-toddler/zsh-guard.git
