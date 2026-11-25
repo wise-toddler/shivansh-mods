@@ -18,6 +18,11 @@
       "name": "zsh-guard",
       "source": "./plugins/zsh-guard",
       "description": "Blocks Bash tool commands that rely on bash word splitting, which zsh does not do"
+    },
+    {
+      "name": "mcp-cli",
+      "source": "./tools/mcp-cli-skill",
+      "description": "Skill that teaches Claude to call any MCP server's tools from the shell with mcp-call (install the CLI with pipx install mcp-cli-skill)"
     }
   ],
   "description": "wise-toddler's Claude Code plugins"

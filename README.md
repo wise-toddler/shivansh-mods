@@ -10,7 +10,7 @@ A Claude Code plugin marketplace. Each plugin lives in its own repo, linked here
 
 ## Other tools
 
-Also linked as submodules. They aren't Claude Code plugins, so each one installs the way its own README says.
+Also linked as submodules. Each one installs the way its own README says; mcp-cli also ships its skill as a plugin (`mcp-cli@shivansh-mods`), while the `mcp-call` CLI itself comes from `pipx install mcp-cli-skill`.
 
 | Tool | What it does |
 |---|---|
@@ -24,6 +24,7 @@ Also linked as submodules. They aren't Claude Code plugins, so each one installs
 /plugin install anti-hung@shivansh-mods
 /plugin install pin-note@shivansh-mods
 /plugin install zsh-guard@shivansh-mods
+/plugin install mcp-cli@shivansh-mods   # skill only; pipx install mcp-cli-skill for the CLI
 ```
 
 ## Working on it
