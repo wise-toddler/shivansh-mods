@@ -13,3 +13,6 @@
 [submodule "browser-manage"]
 	path = tools/browser-manage
 	url = https://github.com/wise-toddler/browser-manage.git
+[submodule "tools/slack-pat-mcp"]
+	path = tools/slack-pat-mcp
+	url = https://github.com/wise-toddler/slack-pat-mcp.git

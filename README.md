@@ -15,6 +15,7 @@ Also linked as submodules. Each one installs the way its own README says; mcp-cl
 | Tool | What it does |
 |---|---|
 | [mcp-cli-skill](https://github.com/wise-toddler/mcp-cli-skill) | `mcp-call`: call any MCP server's tools from the shell, plus a skill that teaches Claude to use it |
+| [slack-pat-mcp](https://github.com/wise-toddler/slack-pat-mcp) | MCP server for your own Slack account with a user token (xoxp): channels, DMs, search, drafts, canvases |
 | [browser-manage](https://github.com/wise-toddler/browser-manage) | Chrome/Edge extension and MCP server to manage tabs and drive pages from Claude |
 
 ## Install
